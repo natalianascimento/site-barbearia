@@ -1,0 +1,64 @@
+.conteudo {
+	width: 940px;
+    margin: 0 auto;
+}
+
+#banner {
+	margin: 0 0 10px 0;
+	width: 100%;
+}
+
+.principal {
+	margin: 40px 0 30px 0;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+.descricao-barbearia {
+	text-align: center;
+	margin-top: 25px;
+}
+
+#missao {
+	font-size: 20px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin: 20px 0 20px 0;
+	background: #f5c889;
+}
+
+em strong {
+	color: #550000;
+	font-family: "Bookman Old Style";
+}
+
+.itens {
+	font-style: italic;
+	margin: 10px;
+}
+
+.beneficios {
+	padding: 10px 0 20px 0;
+	background-color: #f5c889;
+}
+
+.beneficios-itens {
+	display: inline-block;
+	vertical-align: top;
+	width: 30%;
+	margin-right: 15%;
+	margin-left: 10px;
+	position: relative;
+	top: 80px;
+	left: 50px;
+}
+
+.imagembeneficios {
+	width: 50%;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
