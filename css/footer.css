@@ -1,7 +1,8 @@
 
 footer {
 	text-align: center;
-	background-image: linear-gradient(521deg, #5C361C, #DB5B00);
+	/*background-image: linear-gradient(521deg, #5C361C, #DB5B00);*/
+	background: #392111;
 	padding-top: 10px;
 	padding-bottom: 20px;
 	

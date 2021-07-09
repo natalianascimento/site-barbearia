@@ -1,32 +1,54 @@
 .conteudo {
 	width: 940px;
     margin: 0 auto;
+    font-size: 22px;
 }
 
-#banner {
-	margin: 0 0 10px 0;
+.banner {
 	width: 100%;
+	margin: 0 0 10px 0;
 }
 
 .principal {
 	margin: 40px 0 30px 0;
 }
 
-.titulo-centralizado {
-	text-align: center
+.principal p {
+	margin: 0 0 1em;
+}
+
+.principal strong {
+	font-weight: bold;
+}
+
+.titulo-principal {
+	text-align: center;
+	font-size: 2em;
+	margin: 0 0 1em;
 }
 
 .descricao-barbearia {
-	text-align: center;
+	text-align: justify;
 	margin-top: 25px;
 }
 
+.missao {
+	height: 250px;
+}
+
 #missao {
-	font-size: 20px;
+	font-size: 32px;
 	padding-top: 25px;
 	padding-bottom: 25px;
 	margin: 20px 0 20px 0;
-	background: #f5c889;
+	text-align: center;
+}
+
+.imagemtesoura {
+	width: 20%;
+	position: absolute;
+	right: 550px;
+	top: 850px;
 }
 
 em strong {
@@ -41,24 +63,28 @@ em strong {
 
 .beneficios {
 	padding: 10px 0 20px 0;
-	background-color: #f5c889;
+	height: 1000px;
+	/*background-color: #f5c889;*/
+	/*background-image: url("../imagens/beneficios.jpg");*/
 }
 
 .beneficios-itens {
+	color: white;
+	font-size: 40px;
 	display: inline-block;
 	vertical-align: top;
-	width: 30%;
 	margin-right: 15%;
 	margin-left: 10px;
-	position: relative;
-	top: 80px;
-	left: 50px;
+	position: absolute;
+	top: 1500px;
+	left: 250px;
 }
 
 .imagembeneficios {
-	width: 50%;
+	width: 100%;
 }
 
 .titulo-principal {
 	padding-left: 20px;
 }
+

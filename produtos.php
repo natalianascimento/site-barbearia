@@ -4,10 +4,8 @@
 		<meta charset="UTF-8">
 		<title>Produtos - Barbearia Alura</title>
 		<link rel="stylesheet" href="css/reset.css">
-		<link rel="stylesheet" href="css/header.css">
 		<link rel="stylesheet" href="css/main.css">
 		<link rel="stylesheet" href="css/produtos.css">
-		<link rel="stylesheet" href="css/footer.css">
 	</head>
 	<body>
 	
