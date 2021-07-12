@@ -12,18 +12,22 @@
 		<header>
     		<?php require_once('header.html');?>
 		</header>
-		
 		<img class="banner" src="imagens/barbearia.jpg">
+		
 		
 		<main class="conteudo">
 		
 			<section class="principal">
 				<p class="descricao-barbearia">Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
 			</section>
-			
+			<div class="retangulo">
+        		<div class="quadrado">
+        			<img src="imagens/beneficios.jpg">
+        		</div>
+			</div>
     		
+			<img alt="Tesoura" src="imagens/tesoura.png" class="imagemtesoura">
     		<div class="missao">
-    			<img alt="Tesoura" src="imagens/tesoura.png" class="imagemtesoura">
     			<p id="missao" class="descricao-barbearia"><em><strong>"Proporcionamos auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
     		</div>
     		

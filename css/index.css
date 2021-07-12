@@ -47,7 +47,7 @@
 .imagemtesoura {
 	width: 20%;
 	position: absolute;
-	right: 550px;
+	right: 200px;
 	top: 850px;
 }
 
@@ -88,3 +88,20 @@ em strong {
 	padding-left: 20px;
 }
 
+.retangulo{
+	width: 100%;
+	padding: 10px;
+	background-color: #D8B997;
+}
+
+.quadrado {
+	height: 500px;
+	width: 500px;
+	overflow: hidden;
+}
+
+.quadrado img {
+	height: auto;
+	width: 800px;
+	margin: 0px 0 0 -142px
+}
